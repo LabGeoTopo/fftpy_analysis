@@ -1,4 +1,5 @@
 data/
+Outputs/
 .ipynb_checkpoints
 *.grd
 *.png
